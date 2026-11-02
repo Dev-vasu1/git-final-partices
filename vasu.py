@@ -21,5 +21,10 @@ features:
 
 developers:
   - priya
+<<<<<<< HEAD
   - Rahul
   - ravi
+=======
+  - vasu
+  - Krishna
+>>>>>>> e26d466dd0f85538a3def72a349e523c2625c0d7
