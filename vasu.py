@@ -21,5 +21,5 @@ features:
 
 developers:
   - priya
-  - Rahul
+  - vasu
   - Krishna
