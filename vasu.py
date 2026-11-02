@@ -20,6 +20,6 @@ features:
   debugging: false
 
 developers:
-  - Vasu
+  - priya
   - Rahul
   - Krishna
